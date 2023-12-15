@@ -1,4 +1,4 @@
-FROM httpd:2.4.58-alpine@sha256:b0fc22603ede0b405bbb5ed6d87acae61ebab28d2aca894488b2b0ad6d3edfab
+FROM httpd:2.4.58-alpine@sha256:fa116196fc3c6eabca4a1553d545f9cde28475f51d7239244d3f2a5ab486d517
 
 # These variables are inherited from the httpd:alpine image:
 # ENV HTTPD_PREFIX /usr/local/apache2
